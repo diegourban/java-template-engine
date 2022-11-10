@@ -1,11 +1,14 @@
-Java Template Engine
+Java Template Engine #Deprecated
 =====================
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Golang-like template engine for Java. Implements data-driven templates for generating textual
 output.
 
-Moved
+Repo has moved
 ---
+
 See https://github.com/team-carepay/java-template-engine
 
 Requirements
